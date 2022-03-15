@@ -12,7 +12,8 @@
   <img src="https://komarev.com/ghpvc/?username=ineesalmeida" alt="https://github.com/ineesalmeida" />
 </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=ineesalmeida)](https://github.com/ineesalmeida/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ineesalmeida&show_icons=true)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ineesalmeida&layout=compact)](https://github.com/ineesalmeida/github-readme-stats) -->
 
 <!-- 
 <hr>
