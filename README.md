@@ -3,7 +3,6 @@
   <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
 </div> -->
 
-<!-- <h2 align="center"> 👨‍💻 About me</h2> -->
 <p align="center">
   <samp>I am a full-stack Software Engineer with a Master's in Biomedical Engineering.
     </br>
@@ -12,6 +11,9 @@
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=ineesalmeida" alt="https://github.com/ineesalmeida" />
 </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ineesalmeida)](https://github.com/ineesalmeida/github-readme-stats)
+
 <!-- 
 <hr>
 
