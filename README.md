@@ -5,7 +5,7 @@
 
 <p align="center">
   <samp>I'm currently working as a <a href="https://launchpad.net/">Launchpad</a> developer at Canonical.
-    
+    </br>
     I am a full-stack Software Engineer with a Master's in Biomedical Engineering.
     </br>
     My latest project is <a href="https://beersandboomerangs.com/">Beers and Boomerangs</a> - A VR chaotic cooking game where kangaroos try to steel your beer. Silly? Yes. Also a lot of fun to develop!
