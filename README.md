@@ -4,7 +4,7 @@
 </div> -->
 
 <p align="center">
-  <samp>I'm currently working as a <a href="https://launchpad.net/">Launchpad</a> developer at Canonical.
+  <samp>I'm currently working as a <a href="https://launchpad.net/~ines-almeida">Launchpad</a> developer at Canonical.
     </br>
     I am a full-stack Software Engineer with a Master's in Biomedical Engineering.
     </br>
